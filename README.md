@@ -1,0 +1,1 @@
+Data and analysis scripts for Hughes, Hurlstone, Marsh, & Jones (2025). Auditory Distraction in Short-Term Memory is Abolished by Concurrent Articulation: Implications for Working Memory and Attentional Control.
